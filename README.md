@@ -1,2 +1,2 @@
-# zakariaelyassini.github.io
-Zakaria El Yassini's personal portfolio. Featuring projects, achievements, and a professional introduction as a Mathematical and Computational Finance student specializing in quantitative methods and financial analysis.
+# What is it 
+Mainly my portfolio page where I feature my overall path and certain projects I have done throughout the years.
